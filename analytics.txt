@@ -1,0 +1,24 @@
+www.ics.uci.edu                was visited 990 times
+sli.ics.uci.edu                was visited 273 times
+ganglia.ics.uci.edu            was visited 254 times
+mailman.ics.uci.edu            was visited 232 times
+vision.ics.uci.edu             was visited 152 times
+ngs.ics.uci.edu                was visited 78 times
+computableplant.ics.uci.edu    was visited 36 times
+cml.ics.uci.edu                was visited 29 times
+mcs.ics.uci.edu                was visited 22 times
+sdcl.ics.uci.edu               was visited 22 times
+grape.ics.uci.edu              was visited 19 times
+emj.ics.uci.edu                was visited 16 times
+mhcid.ics.uci.edu              was visited 13 times
+support.ics.uci.edu            was visited 12 times
+student-council.ics.uci.edu    was visited 11 times
+swiki.ics.uci.edu              was visited 11 times
+mondego.ics.uci.edu            was visited 10 times
+archive.ics.uci.edu            was visited 7 times
+webmail.ics.uci.edu            was visited 2 times
+netreg.ics.uci.edu             was visited 1 times
+graphmod.ics.uci.edu           was visited 1 times
+keys.ics.uci.edu               was visited 1 times
+checkmate.ics.uci.edu          was visited 1 times
+859 links was the highest number from http://vision.ics.uci.edu/publications.html
